@@ -1,7 +1,8 @@
 ## Hospital Resource Optimization Dashboard
 
 ## Overview
-This project explores how **Data Science** can be applied to optimize hospital resources in Jamaica and beyond.  
+This project explores how **Data Science** can be applied to optimize hospital resources in Jamaica and beyond. This project can be utilized as a system to be further implemented not ensure resources are not wasted and to also ensure that allocation is handled properly. 
+
 The goal is to monitor **patient flow, bed occupancy, and staff allocation** using predictive analytics and interactive dashboards.  
 
 By combining **SQL databases, forecasting models, and visualization tools**, this project demonstrates how hospitals can improve efficiency, reduce overcrowding, and allocate resources more effectively.
