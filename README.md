@@ -1,32 +1,31 @@
-## Hospital Resource Optimization Dashboard
+# Hospital Forecasting & Optimization
 
-## Overview
-This project explores how **Data Science** can be applied to optimize hospital resources in Jamaica and beyond. This project can be utilized as a system to be further implemented not ensure resources are not wasted and to also ensure that allocation is handled properly. 
+This project models hospital bed demand and capacity across Jamaica using:
+- **Synthetic patient inflow generation** (Poisson arrivals + seasonality)
+- **Forecasting with Prophet** (per facility)
+- **Optimization with PuLP** (bed allocation to minimize overflow)
 
-The goal is to monitor **patient flow, bed occupancy, and staff allocation** using predictive analytics and interactive dashboards.  
+## Project Structure
+- `data/` → raw and processed datasets
+- `notebooks/` → interactive exploration and modeling
+- `src/` → reusable Python scripts
+- `reports/` → figures and summary findings
 
-By combining **SQL databases, forecasting models, and visualization tools**, this project demonstrates how hospitals can improve efficiency, reduce overcrowding, and allocate resources more effectively.
+## Getting Started
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
----
+2. 	Run notebooks in order:
+• 	
+• 	
+• 	
+• 	
 
-##  Objectives
-- Track patient admissions and discharges in real-time.
-- Forecast hospital demand using time-series models.
-- Visualize bed occupancy, staff allocation, and patient flow.
-- Provide actionable insights for healthcare administrators.
-
----
-
-## Tools & Technologies
-### Data Integration
-- **PostgreSQL / MySQL** → store hospital records.
-- **FHIR/HL7 Standards** → ensure healthcare data interoperability.
-
-### Forecasting
-- **Python**: Prophet, Statsmodels  
-- **R**: forecast package (ARIMA, ETS models)
-
-### Dashboards
-- **Power BI / Tableau** → interactive dashboards for decision-makers.  
-- **Grafana** → real-time monitoring of patient flow and resource usage.
-
+Dependencies
+• 	pandas
+• 	numpy
+• 	matplotlib
+• 	seaborn
+• 	prophet
+• 	pulp
