@@ -17,14 +17,14 @@ This project models hospital bed demand and capacity across Jamaica using:
    pip install -r requirements.txt
 
 2. 	Run notebooks in order:
-• 	01_EDA.ipynb
-• 	02_SyntheticData/ipynb
+- 	01_EDA.ipynb
+-	02_SyntheticData/ipynb
 
 
 Dependencies
-• 	pandas
-• 	numpy
-• 	matplotlib
-• 	seaborn
-• 	prophet
-• 	pulp
+-	pandas
+-	numpy
+-	matplotlib
+-	seaborn
+-	prophet
+-	pulp
