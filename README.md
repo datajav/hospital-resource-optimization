@@ -20,7 +20,7 @@ This project models hospital bed demand and capacity across Jamaica using:
 - 	01_EDA.ipynb
 -	02_SyntheticData.ipynb
 -	03_Prophet_Forecasting.ipynb
-
+-	04_Optimization.ipynb
 
 Dependencies
 -	pandas
