@@ -5,25 +5,27 @@ This report evaluates Jamaica’s hospital system resilience under varying deman
 • 	Normal Demand: Most facilities operate within capacity, with negligible overflow.
 • 	Outbreak/Disaster: Smaller hospitals consistently overflow first, creating local bottlenecks.
 • 	Implication: These facilities require surge capacity planning (beds, staff, or mobile units).
-![alt text](image.png)
+
+
 
 2. Parish-Level Insights
 • 	Redistribution within parishes reduces overflow compared to facility-only optimization.
 • 	Larger parishes (e.g., Kingston) absorb shocks better due to multiple facilities.
 • 	Smaller parishes remain vulnerable, even with redistribution.
-![alt text](image-1.png)
+
+
 
 3. System-Level Insights
 • 	Nationally, the system absorbs normal demand comfortably.
 • 	With a 10–20% reserve policy, overflow appears even in moderate scenarios, but resilience improves.
 • 	In disaster scenarios, total overflow rises significantly, showing system limits.
-![alt text](image-2.png)
+
 
 4. Stress Test Findings
 • 	Seasonal Spikes (Flu Season): Moderate overflow, manageable with parish redistribution.
 • 	Policy Constraints (20% Reserve): Overflow increases but strengthens resilience planning.
 • 	Regional Shocks (e.g., Kingston surge): Localized crises highlight the need for inter-parish transfers and mobile capacity.
-![alt text](image-3.png)
+
 
 5. Key Takeaways
 • 	Normal demand is manageable at all levels.
@@ -32,6 +34,7 @@ This report evaluates Jamaica’s hospital system resilience under varying deman
 • 	Targeted interventions should focus on high-risk facilities and parishes.
 
 6. Recommendations
+
 1. 	Targeted Interventions: Expand capacity at facilities that consistently overflow.
 2. 	Policy Planning: Maintain national reserves and develop transfer protocols.
 3. 	Scenario Monitoring: Regularly rerun forecasts with updated demand data.
