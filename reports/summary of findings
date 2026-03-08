@@ -6,7 +6,7 @@ This report evaluates Jamaica’s hospital system resilience under varying deman
 • 	Outbreak/Disaster: Smaller hospitals consistently overflow first, creating local bottlenecks.
 • 	Implication: These facilities require surge capacity planning (beds, staff, or mobile units).
 
-(https://github.com/datajav/hospital-resource-optimization/blob/c6b3d7ec2dd1040daf6a449c25d3677f23360020/reports/image.png)
+https://github.com/datajav/hospital-resource-optimization/blob/c6b3d7ec2dd1040daf6a449c25d3677f23360020/reports/image.png
 
 2. Parish-Level Insights
 • 	Redistribution within parishes reduces overflow compared to facility-only optimization.
