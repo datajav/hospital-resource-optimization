@@ -45,7 +45,7 @@ This report evaluates Jamaica’s hospital system resilience under varying deman
 • 	Larger parishes (e.g., Kingston) absorb shocks better due to multiple facilities.
 • 	Smaller parishes remain vulnerable, even with redistribution.
 
-
+![Alth Text](https://github.com/datajav/hospital-resource-optimization/blob/1aeca9cba43fcefbd164cfd0552f54d6247c78c8/reports/image-1.png)
 
 3. System-Level Insights
 • 	Nationally, the system absorbs normal demand comfortably.
