@@ -21,34 +21,28 @@ Unpredictable patient arrivals
 The goal: allocate resources efficiently to minimize wait times and maximize patient coverage.
 
 
-## Project Structure
+## 📋Project Structure
 - `data/` → raw and processed datasets
 - `notebooks/` → interactive exploration and modeling
 - `src/` → reusable Python scripts
-- `reports/` → figures and summary findings
+- `casestudy/` → figures and summary findings
 
 ## 📊 Results
-Reduced ICU bottlenecks by X% (replace with your metric).
+Reduced ICU bottlenecks considerably.
 
 Improved staff utilization across shifts.
 
 Generated allocation plans that balance patient demand with available resources.
 
-(Insert chart or screenshot here — e.g., before/after allocation visualization)
 
 ## 🚀 How to Run
-```bash
-git clone https://github.com/datajav/hospital-resource-optimization
+
+```bash git clone https://github.com/datajav/hospital-resource-optimization
 cd hospital-resource-optimization
 pip install -r requirements.txt
 jupyter notebook HospitalOptimization.ipynb
 
- Run notebooks in order:
-- 	01_EDA.ipynb
--	02_SyntheticData.ipynb
--	03_Prophet_Forecasting.ipynb
--	04_Optimization.ipynb
-
 Install dependencies:
-   ```bash
    pip install -r requirements.txt
+
+ 
