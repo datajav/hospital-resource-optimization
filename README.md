@@ -37,12 +37,12 @@ Generated allocation plans that balance patient demand with available resources.
 
 ## 🚀 How to Run
 
-```bash git clone https://github.com/datajav/hospital-resource-optimization
+```bash 
+git clone https://github.com/datajav/hospital-resource-optimization
 cd hospital-resource-optimization
 pip install -r requirements.txt
 jupyter notebook HospitalOptimization.ipynb
 
-Install dependencies:
-   pip install -r requirements.txt
+
 
  
