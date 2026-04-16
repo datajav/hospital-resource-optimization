@@ -17,6 +17,7 @@ The objective was to design an optimization model that balances patient demand w
 - **Scope**: ICU and general wards, multiple shifts
 
 ![Distribution of Beds](https://github.com/datajav/hospital-resource-optimization/blob/0dc7e2422b78d15d228d387546a1342c4bdd9041/figures/Distribution%20of%20Beds.png)
+![Total Beds by Parish](figures/Total beds by parish.png)
 
 ---
 
