@@ -16,6 +16,8 @@ The objective was to design an optimization model that balances patient demand w
 - **Format**: CSV sample datasets (synthetic but realistic)
 - **Scope**: ICU and general wards, multiple shifts
 
+![alt text](Distribution of Beds.png)
+
 ---
 
 ## 3. Approach
@@ -34,7 +36,8 @@ The objective was to design an optimization model that balances patient demand w
 - Improved staff utilization across shifts
 - Generated allocation plans that balance patient demand with available resources
 
-*(Insert chart or screenshot here — e.g., before/after allocation visualization)*
+
+
 
 ---
 
