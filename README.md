@@ -32,10 +32,11 @@ Hospitals regularly face compounding resource challenges:
 
 ```
 hospital-resource-optimization/
+├── casestudy/      # summary findings
 ├── data/           # Raw and processed datasets
+├── figures/        # charts and plots
 ├── notebooks/      # Interactive exploration and modeling
-├── src/            # Reusable Python modules
-└── casestudy/      # Figures and summary findings
+└── src/            # Reusable Python modules
 ```
 
 ---
